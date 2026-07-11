@@ -8,7 +8,7 @@
 <img src="assets/demo/aman-sense-demo.gif" width="25%">
 
 
-Aman Sense Solutions is an entrepreneurship and technical prototype that connects agribusiness innovation with digital agriculture. It demonstrates how IoT telemetry, mobile decision support, irrigation automation, and analytics can support water-efficient farming.
+Aman Sense Solutions is an entrepreneurship and technical solution that connects agribusiness innovation with digital agriculture. It demonstrates how IoT telemetry, mobile decision support, irrigation automation, and analytics can support water-efficient farming.
 
 ---
 
