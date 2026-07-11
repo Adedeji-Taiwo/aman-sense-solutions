@@ -67,6 +67,21 @@ Aman Sense addresses this problem by providing a smart water monitoring and irri
 
 ---
 
+
+## Field Discovery Context 
+
+As part of the agribusiness innovation process, Aman Sense included field discovery with farmers to understand irrigation challenges, water-use constraints, and the need for practical digital agriculture tools.
+
+<p align="center">
+  <a href="assets/demo/farmer-field-discovery.mp4">
+    <img src="assets/demo/farmer-field-discovery-thumbnail.png" width="600" alt="Farmer Field Discovery Context">
+  </a>
+  <br>
+  <a href="assets/demo/farmer-field-discovery.mp4">Watch the field discovery clip</a>
+</p>
+
+---
+
 ## Entrepreneurial Motivation
 
 The mission of Aman Sense is to empower farmers with insights that help optimize irrigation, reduce water wastage, and improve agricultural and water productivity.
