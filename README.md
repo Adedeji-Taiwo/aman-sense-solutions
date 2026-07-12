@@ -5,7 +5,7 @@
 **Innovation & Entrepreneurship Course Project | Master’s in Agribusiness Innovation**  
 **African Business School, Mohammed VI Polytechnic University (UM6P)**
 
-<img src="assets/demo/aman-sense-demo.gif" width="25%">
+<img src="assets/demo/aman-sense-demo.gif" width="30%">
 
 
 Aman Sense Solutions is an entrepreneurship and technical solution that connects agribusiness innovation with digital agriculture. It demonstrates how IoT telemetry, mobile decision support, irrigation automation, and analytics can support water-efficient farming.
