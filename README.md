@@ -74,11 +74,11 @@ Aman Sense addresses this problem by providing a smart water monitoring and irri
 As part of the agribusiness innovation process, Aman Sense included field discovery with farmers to understand irrigation challenges, water-use constraints, and the need for practical digital agriculture tools.
 
 <p align="center">
-  <a href="[assets/demo/farmer-field-discovery.mp4](https://github.com/user-attachments/assets/0c8f7d55-5a37-4e71-a7e6-f736b24c0909)">
-    <img src="assets/demo/farmer-field-discovery-thumbnail.png" width="600" alt="Farmer Field Discovery Context">
+  <a href="https://github.com/user-attachments/assets/0c8f7d55-5a37-4e71-a7e6-f736b24c0909">
+    <img src="assets/demo/farmer-field-discovery-thumbnail.png" alt="Farmer Field Discovery Thumbnail" width="50%">
   </a>
   <br>
-  <a href="[assets/demo/farmer-field-discovery.mp4](https://github.com/user-attachments/assets/0c8f7d55-5a37-4e71-a7e6-f736b24c0909)">Watch the field discovery clip</a>
+  <a href="https://github.com/user-attachments/assets/0c8f7d55-5a37-4e71-a7e6-f736b24c0909">Watch the field discovery clip</a>
 </p>
 
 ---
